@@ -1,0 +1,25 @@
+{
+    "VsCodeTaskButtons.showCounter": true,
+    "VsCodeTaskButtons.tasks": [
+        {
+            "label": "$(tools) Build",
+            "task": "Build (Debug)",
+            "tooltip": "dotnet build (Debug)"
+        },
+        {
+            "label": "$(package) Release",
+            "task": "Build (Release)",
+            "tooltip": "dotnet build (Release)"
+        },
+        {
+            "label": "$(play) Run",
+            "task": "Run",
+            "tooltip": "dotnet run — launches the GUI"
+        },
+        {
+            "label": "$(cloud-upload) Publish",
+            "task": "Publish (win-x64)",
+            "tooltip": "Publish self-contained win-x64 exe to publish/"
+        }
+    ]
+}

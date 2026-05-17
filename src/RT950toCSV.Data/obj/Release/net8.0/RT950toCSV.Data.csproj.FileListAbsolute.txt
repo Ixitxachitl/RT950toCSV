@@ -1,0 +1,11 @@
+C:\Users\krame\Documents\VSCode\RT950toCSV\src\RT950toCSV.Data\obj\Release\net8.0\RT950toCSV.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krame\Documents\VSCode\RT950toCSV\src\RT950toCSV.Data\obj\Release\net8.0\RT950toCSV.Data.AssemblyInfoInputs.cache
+C:\Users\krame\Documents\VSCode\RT950toCSV\src\RT950toCSV.Data\obj\Release\net8.0\RT950toCSV.Data.AssemblyInfo.cs
+C:\Users\krame\Documents\VSCode\RT950toCSV\src\RT950toCSV.Data\obj\Release\net8.0\RT950toCSV.Data.csproj.CoreCompileInputs.cache
+C:\Users\krame\Documents\VSCode\RT950toCSV\src\RT950toCSV.Data\bin\Release\net8.0\BT-RT950PRO_CPS.deps.json
+C:\Users\krame\Documents\VSCode\RT950toCSV\src\RT950toCSV.Data\bin\Release\net8.0\BT-RT950PRO_CPS.dll
+C:\Users\krame\Documents\VSCode\RT950toCSV\src\RT950toCSV.Data\bin\Release\net8.0\BT-RT950PRO_CPS.pdb
+C:\Users\krame\Documents\VSCode\RT950toCSV\src\RT950toCSV.Data\obj\Release\net8.0\BT-RT950PRO_CPS.dll
+C:\Users\krame\Documents\VSCode\RT950toCSV\src\RT950toCSV.Data\obj\Release\net8.0\refint\BT-RT950PRO_CPS.dll
+C:\Users\krame\Documents\VSCode\RT950toCSV\src\RT950toCSV.Data\obj\Release\net8.0\BT-RT950PRO_CPS.pdb
+C:\Users\krame\Documents\VSCode\RT950toCSV\src\RT950toCSV.Data\obj\Release\net8.0\ref\BT-RT950PRO_CPS.dll

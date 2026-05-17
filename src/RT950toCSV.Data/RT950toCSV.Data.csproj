@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- Must match the Radtel CPS assembly name so BinaryFormatter writes the correct
+         library record in the DAT file without requiring stream-level patching. -->
+    <AssemblyName>BT-RT950PRO_CPS</AssemblyName>
+  </PropertyGroup>
+
+</Project>
